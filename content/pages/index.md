@@ -30,10 +30,11 @@ sections:
     title: Features
     features:
       - title: Ideas worth sharing
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Students can share their essays or raise an issue or follow a
+          particular Educator. Educators can share their content with their
+          students by themselves or under an organization. Organizations can
+          team with their Educators for sharing relevant content.
         align: left
         image: /images/screely-feature-1.png
         image_alt: Feature 1 placeholder image
