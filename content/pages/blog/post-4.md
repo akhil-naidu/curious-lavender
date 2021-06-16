@@ -10,7 +10,9 @@ tags:
   - Forem
 image: images/4.png
 image_alt: Post 4 image
-excerpt: Leewardslope is made up of many amazing open source tools.
+excerpt: >-
+  Leewardslope is made up of many amazing open source tools. We have a Jamstack
+  site created with stackbit and an app with Forem
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
