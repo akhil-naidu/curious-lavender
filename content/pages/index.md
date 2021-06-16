@@ -113,7 +113,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Starter Theme
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        Leewardslope is an opensource platform for Students, Educators and
+        Organizations to interact with each other without the interference of
+        Social Media Platforms.
     - name: 'twitter:image'
       value: /_static/app-assets/images/screely-preview.png
       relativeUrl: true
