@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "header": {
         "title": "Leewardslope",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Features",
