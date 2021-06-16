@@ -1,6 +1,6 @@
 ---
 title: First step towards your dream!
-date: '2020-05-28'
+date: '2021-06-28'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
