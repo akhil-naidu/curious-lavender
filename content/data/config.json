@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/Leewardslope_logo.png"
     },
     "footer": {
         "has_nav": true,
