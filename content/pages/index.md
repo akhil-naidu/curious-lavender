@@ -5,7 +5,8 @@ sections:
     title: Welcome to Leewardslope
     subtitle: >-
       Leewardslope is an opensource platform for Students, Educators and
-      Organizations
+      Organizations to interact with each other without the interference of
+      Social Media Platforms.
     actions:
       - label: Learn More
         url: /features
