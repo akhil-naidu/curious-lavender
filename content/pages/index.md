@@ -11,7 +11,7 @@ sections:
       - label: Open App
         url: /features
         style: primary
-      - label: Join Us
+      - label: Contact Us
         url: /contact
         style: secondary
     align: left
