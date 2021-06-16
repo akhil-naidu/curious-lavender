@@ -90,7 +90,7 @@ seo:
   description: >-
     Leewardslope is an opensource platform for Students, Educators and
     Organizations to interact with each other without the interference of Social
-    Media Platforms
+    Media Platforms.
   extra:
     - name: 'og:type'
       value: website
