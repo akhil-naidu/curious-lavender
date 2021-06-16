@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/Leewardslope_logo.png"
+        "logo": "/images/Leewardslope_logo.png",
+        "logo_alt": "leewardslope"
     },
     "footer": {
         "has_nav": true,
