@@ -35,7 +35,7 @@
         "logo_alt": "leewardslope"
     },
     "footer": {
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Contact Us",
