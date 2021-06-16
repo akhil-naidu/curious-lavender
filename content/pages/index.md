@@ -87,7 +87,10 @@ sections:
     background_color: gray
 seo:
   title: Leewardslope
-  description: 'Ideas, Stories, Thoughts worth sharing'
+  description: >-
+    Leewardslope is an opensource platform for Students, Educators and
+    Organizations to interact with each other without the interference of Social
+    Media Platforms
   extra:
     - name: 'og:type'
       value: website
