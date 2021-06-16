@@ -1,5 +1,5 @@
 ---
-title: CurFirst step towards your dream!
+title: First step towards your dream!
 date: '2020-05-28'
 author: content/data/team/gordon-norman.yaml
 categories:
