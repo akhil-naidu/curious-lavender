@@ -11,7 +11,7 @@ image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
   Indian Administrative Service(IAS) is a part of Civil Services Examination of
-  India and it is considered one of the toughest competitive exams in India
+  India and it is considered one of the toughest competitive exams in India.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
