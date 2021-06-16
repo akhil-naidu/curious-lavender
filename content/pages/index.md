@@ -11,6 +11,7 @@ sections:
       - label: Join Us
         url: 'https://app.leewardslope.com/enter'
         style: primary
+        new_window: true
       - label: Contact Us
         url: /contact
         style: secondary
