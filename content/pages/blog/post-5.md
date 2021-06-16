@@ -5,7 +5,7 @@ author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/tutorials.yaml
 tags:
-  - Stackbit
+  - Leewardslope
   - Netlify
 image: /images/forem_post.png
 image_alt: Post 5 Image
