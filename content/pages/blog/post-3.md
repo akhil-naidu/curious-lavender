@@ -8,7 +8,7 @@ tags:
   - Leewardslope
   - UPSC
 image: /images/syllabus.png
-image_alt: Post 3 placeholder image
+image_alt: Post 3 image
 excerpt: >-
   Indian Administrative Service(IAS) is a part of Civil Services Examination of
   India and it is considered one of the toughest competitive exams in India.
