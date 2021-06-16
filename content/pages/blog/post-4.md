@@ -6,7 +6,7 @@ categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/news.yaml
 tags:
-  - JAMstack
+  - Leewardslope
   - Sourcebit
 image: images/4.png
 image_alt: Post 4 placeholder image
