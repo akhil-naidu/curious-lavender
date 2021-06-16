@@ -9,7 +9,7 @@ tags:
   - Leewardslope
   - Forem
 image: images/4.png
-image_alt: Post 4 placeholder image
+image_alt: Post 4 image
 excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
