@@ -10,9 +10,8 @@ tags:
 image: /images/forem_post.png
 image_alt: Post 5 Image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Today, I'm here to share my ideas on creating a community, experiences,
+  struggles and overall fun in bring my community live using Forem.
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
