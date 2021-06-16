@@ -56,7 +56,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Multiple Organisations
+      - title: Multiple Organizations
         content: >
           Follow more than one organization to make your home feed more
           customisable according to your needs. This setup allows students to
