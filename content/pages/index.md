@@ -57,10 +57,11 @@ sections:
             url: /features
             style: secondary
       - title: Multiple Organisations
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Follow more than one organization to make your home feed more
+          customisable according to your needs. This setup allows students to
+          stay at one place to gather information from various sources, while
+          the newer potential organizations will have a helping hand.
         align: left
         image: /images/screely-feature-3.png
         image_alt: Feature 3 placeholder image
