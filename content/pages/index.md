@@ -115,7 +115,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Starter theme
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: /_static/app-assets/images/screely-preview.png
       relativeUrl: true
 layout: advanced
 ---
