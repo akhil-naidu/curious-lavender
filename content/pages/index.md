@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Leewardslope
-    subtitle: Leewardslope is an opensource community
+    subtitle: >-
+      Leewardslope is an opensource platform for Students, Educators and
+      Organizations
     actions:
       - label: Learn More
         url: /features
