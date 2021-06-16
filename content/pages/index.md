@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Leewardslope
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Leewardslope is an opensource community
     actions:
       - label: Learn More
         url: /features
