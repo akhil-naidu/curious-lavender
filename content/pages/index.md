@@ -44,10 +44,10 @@ sections:
             url: /features
             style: secondary
       - title: Save Articles for Later
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          You can save any article within Leewardslope, be it by a fellow
+          student or educator or organisation. All of those will stay at one
+          place for future references.
         align: left
         image: /images/screely-feature-2.png
         image_alt: Feature 2 placeholder image
