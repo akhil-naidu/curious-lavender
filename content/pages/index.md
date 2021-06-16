@@ -87,7 +87,7 @@ sections:
     background_color: gray
 seo:
   title: Leewardslope
-  description: The preview of the Starter theme
+  description: 'Ideas, Stories, Thoughts worth sharing'
   extra:
     - name: 'og:type'
       value: website
