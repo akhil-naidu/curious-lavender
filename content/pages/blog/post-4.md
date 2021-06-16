@@ -7,7 +7,7 @@ categories:
   - content/data/categories/news.yaml
 tags:
   - Leewardslope
-  - remoF
+  - Forem
 image: images/4.png
 image_alt: Post 4 placeholder image
 excerpt: >-
