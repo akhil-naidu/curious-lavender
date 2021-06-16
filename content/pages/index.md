@@ -8,7 +8,7 @@ sections:
       Organizations to interact with each other without the interference of
       Social Media Platforms.
     actions:
-      - label: Learn More
+      - label: Open App
         url: /features
         style: primary
       - label: Contact Us
