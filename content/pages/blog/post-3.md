@@ -6,7 +6,7 @@ categories:
   - content/data/categories/general.yaml
 tags:
   - Leewardslope
-  - JAMstack
+  - UPSC
 image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
