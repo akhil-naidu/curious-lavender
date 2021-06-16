@@ -6,7 +6,7 @@ categories:
   - content/data/categories/tutorials.yaml
 tags:
   - Leewardslope
-  - Netlify
+  - Forem
 image: /images/forem_post.png
 image_alt: Post 5 Image
 excerpt: >-
