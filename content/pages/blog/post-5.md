@@ -1,6 +1,6 @@
 ---
 title: Leewardslope is Live! Using Forem.
-date: '2021-06-15'
+date: '2021-06-01'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/tutorials.yaml
