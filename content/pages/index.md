@@ -111,7 +111,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Leewardslope
     - name: 'twitter:description'
       value: >-
         Leewardslope is an opensource platform for Students, Educators and
