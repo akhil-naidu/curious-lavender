@@ -9,7 +9,7 @@ sections:
       Social Media Platforms.
     actions:
       - label: Join Us
-        url: 'https://app.leewardslope.com/new'
+        url: 'https://app.leewardslope.com/enter'
         style: primary
       - label: Contact Us
         url: /contact
