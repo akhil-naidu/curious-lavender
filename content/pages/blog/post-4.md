@@ -41,12 +41,50 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Leewardslope is made up of many amazing open-source tools, those tools are listed below:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+*   [*Puma*](https://github.com/puma/puma) as the web server
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
+*   [*PostgreSQL*](https://www.postgresql.org/) as the primary database and for Full Text Search
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+*   [*Redis*](https://redis.io/) to store cached data
+
+*   [*Fastly*](https://www.fastly.com/) for [edge caching](https://dev.to/ben/making-devto-insanely-fast)
+
+*   [*Cloudinary*](https://cloudinary.com/) and/or [*Imgproxy*](https://github.com/imgproxy/imgproxy) for image manipulation/serving
+
+*   [*Honeybadger*](https://www.honeybadger.io/) for error monitoring
+
+*   [*Sidekiq*](https://github.com/mperham/sidekiq) and [*Active Job*](https://guides.rubyonrails.org/active_job_basics.html) for background workers
+
+*   [Ransack](https://github.com/activerecord-hackery/ransack) for internal search
+
+*   [*Redcarpet*](https://github.com/vmg/redcarpet) and [*Rouge*](https://github.com/jneen/rouge) to parse Markdown
+
+*   [*Carrierwave*](https://github.com/carrierwaveuploader/carrierwave), [*Fog*](https://github.com/fog/fog-aws) and [*AWS S3*](https://aws.amazon.com/s3/) for image upload/storage
+
+*   [*InstantClick*](http://instantclick.io/) (a modified version) instead of *Turbolinks* to accelerate navigation
+
+*   [*ImageMagick*](https://imagemagick.org/) to manipulate images on upload
+
+*   [*Heroku*](https://www.heroku.com/) for hosting
+
+*   [*Sendgrid*](https://sendgrid.com/) for transactional mailing
+
+*   [*Mailchimp*](https://mailchimp.com/) for marketing/outreach emails
+
+*   [*CounterCulture*](https://github.com/magnusvk/counter_culture) to keep track of association counts (counter caches)
+
+*   [*Rolify*](https://github.com/RolifyCommunity/rolify) for role management
+
+*   [*Pundit*](https://github.com/varvet/pundit) for authorization to proxy traffic
+
+*   [Preact](https://preactjs.com/) for some of the frontend.
+
+*   [*Pusher*](https://pusher.com/) for realtime communication between the application and users' browsers
+
+*   [*GitDocs*](https://github.com/timberio/gitdocs) for beautiful and SEO-friendly documentation
+
+*   [Git](https://git-scm.com/) for version control
+
+*   [GitHub](https://github.com/) for hosting the source code and issue tracking
