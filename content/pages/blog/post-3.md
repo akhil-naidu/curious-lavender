@@ -7,7 +7,7 @@ categories:
 tags:
   - Leewardslope
   - UPSC
-image: images/3.png
+image: /images/syllabus.png
 image_alt: Post 3 placeholder image
 excerpt: >-
   Indian Administrative Service(IAS) is a part of Civil Services Examination of
