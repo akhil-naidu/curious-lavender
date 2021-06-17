@@ -76,7 +76,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Welcome to Leewardslope Community
-    subtitle: "Either\_write\_something worth reading or do something worth\_writing."
+    subtitle: "If there's a book that you want to read, but it hasn't been\_written\_yet, then you must\_write\_it."
     actions:
       - label: Learn More
         url: /features
