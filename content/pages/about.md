@@ -33,7 +33,7 @@ sections:
       *   Keep track of updates or decisions that influence or change the
       community.
   - type: team_section
-    title: Our Team
+    title: Our Team/Place Holder
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
