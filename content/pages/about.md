@@ -43,7 +43,7 @@ sections:
   - type: cta_section
     title: Join the Team
     actions:
-      - label: Contact Us
+      - label: Join Us
         url: /contact
         style: secondary
     has_background: true
