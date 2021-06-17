@@ -48,6 +48,9 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+    subtitle: >-
+      If there's a book that you want to read, but it hasn't been written yet,
+      then you must write it.
 seo:
   title: Who We Are
   description: This is the about us page
