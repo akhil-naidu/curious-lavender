@@ -46,7 +46,7 @@
                 "label": "Privacy and Terms",
                 "url": "https://app.leewardslope.com/terms",
                 "style": "link",
-                "new_window": true
+                "new_window": false
             }
         ],
         "has_social": true,
