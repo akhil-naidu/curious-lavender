@@ -44,7 +44,7 @@ sections:
     title: Join the Team
     actions:
       - label: Join Us
-        url: /contact
+        url: 'https://app.leewardslope.com'
         style: secondary
     has_background: true
     background_color: blue
