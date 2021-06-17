@@ -5,19 +5,33 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+    content: >
+      Leewardslope is an open-source platform based on numerous other
+      [open-source
+      tools](https://app.leewardslope.com/leedevs/leewardslope-is-made-up-of-4b84)
+      to empower the educational system and create a platform for students and
+      educators of India to gather and communicate without social media
+      platforms like Facebook, Telegram, Whatsapp.
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+
+      > Leewardslope is a Forem instance where collaborative communication is
+      encouraged.
+
+
+
+
+      This is a space for community members to:
+
+
+      *   Ask, Debate and Discuss different topics and questions.
+
+
+      *   Have open-ended discussions.
+
+
+      *   Keep track of updates or decisions that influence or change the
+      community.
   - type: team_section
     title: Our Team
     team:
