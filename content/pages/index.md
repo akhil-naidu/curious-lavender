@@ -13,7 +13,7 @@ sections:
         style: primary
         new_window: true
       - label: Explore
-        url: /contact
+        url: 'https://app.leewardslope.com'
         style: secondary
     align: left
     image: /images/screely-preview.png
