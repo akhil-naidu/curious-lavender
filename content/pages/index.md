@@ -76,9 +76,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Welcome to Leewardslope Community
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Either\_write\_something worth reading or do something worth\_writing."
     actions:
       - label: Learn More
         url: /features
