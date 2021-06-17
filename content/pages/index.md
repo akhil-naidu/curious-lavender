@@ -12,7 +12,7 @@ sections:
         url: 'https://app.leewardslope.com/enter'
         style: primary
         new_window: true
-      - label: Contact Us
+      - label: Explore
         url: /contact
         style: secondary
     align: left
