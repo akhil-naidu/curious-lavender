@@ -1,5 +1,5 @@
 ---
-title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: Need to be Updated
 date: '2020-05-25'
 author: content/data/team/miles-tone.yaml
 categories:
