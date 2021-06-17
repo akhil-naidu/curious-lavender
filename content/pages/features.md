@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Extra Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: The images were not yet ready and this page acts as an place holder.
     align: center
   - type: features_section
     features:
