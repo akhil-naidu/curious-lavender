@@ -42,7 +42,6 @@ sections:
       - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
         url: /contact
